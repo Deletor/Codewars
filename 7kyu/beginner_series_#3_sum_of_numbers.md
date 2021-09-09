@@ -3,9 +3,9 @@ Codewars Python Solutions
 ---
 ## Beginner Series #3 Sum of Numbers <br>
 ---
-Given two integers ```a``` and ```b```, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return a or b.
+Given two integers ```a``` and ```b```, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return ```a``` or ```b```.
 
-Note: a and b are not ordered!
+Note: ```a``` and ```b``` are not ordered!
 ```python
 Examples
 get_sum(1, 0) == 1   // 1 + 0 = 1
