@@ -6,7 +6,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 ## 5kyu <br>
 | Name Kata | Link |
 |--|--|
-|[Moving Zeros To The End]|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)
+|[Moving Zeros To The End](https://github.com/Deletor/Codewars/blob/main/5kyu/moving_zeros_to_the_end.md)|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)
 ---
 ## 6kyu <br>
 | Name Kata | Link |
