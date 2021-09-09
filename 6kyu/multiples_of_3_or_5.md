@@ -1,3 +1,3 @@
-#Codewars Python Solutions<br>
+#Codewars Python Solutions
 ---
-## Multiples of 3 or 5<br>
+## Multiples of 3 or 5
