@@ -7,3 +7,4 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 
 ## 8kyu <br>
 |Name kata | Link |
+|--|--|
