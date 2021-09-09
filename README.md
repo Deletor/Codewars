@@ -16,6 +16,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 | Name Kata | Link |
 |--|--|
 |[Credit Card Mask](https://github.com/Deletor/Codewars/blob/main/7kyu/credit_card_mask.md)|[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc)|
+|[Beginner Series #3 Sum of Numbers]|[Link](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/python)|
 
 ---
 ## 8kyu <br>
