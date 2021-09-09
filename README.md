@@ -1,3 +1,6 @@
 # Codewars Python Solutions
-[Follow me](https://www.codewars.com/users/Deletor)
+Join [Codewars](www.codewars.com/r/VVLPRA) and 
+[Follow me](https://www.codewars.com/users/Deletor) <br>
 ![follow me](https://www.codewars.com/users/Deletor/badges/large)
+
+## 8kyu
