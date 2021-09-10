@@ -23,8 +23,8 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[IQ Test](https://github.com/Deletor/Codewars/blob/main/6kyu/iq_test.md)|[Link](https://www.codewars.com/kata/552c028c030765286c00007d/train/python)|
 |[Take a Ten Minute Walk](https://github.com/Deletor/Codewars/blob/main/6kyu/take_a_ten_minute_walk.md)|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python)|
 |[Find the odd int](https://github.com/Deletor/Codewars/blob/main/6kyu/find_the_odd_int.md)|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|
-|[Replace With Alphabet Position]|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python)|
-|[Dubstep]|[Link]|
+|[Replace With Alphabet Position](https://github.com/Deletor/Codewars/blob/main/6kyu/replace_with_alphabet_position.md)|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python)|
+|[Dubstep](https://github.com/Deletor/Codewars/blob/main/6kyu/dubstep.md)|[Link](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/python)|
 |[Vasya - Clerk]|[Link]|
 |[Sum of Digits / Digital Root]|[Link]|
 
