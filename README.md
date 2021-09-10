@@ -8,7 +8,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |--|--|
 |[Moving Zeros To The End](https://github.com/Deletor/Codewars/blob/main/5kyu/moving_zeros_to_the_end.md)|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)|
 |[Where my anagrams at?](https://github.com/Deletor/Codewars/blob/main/5kyu/where_my_anagrams_at.md)|[Link](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/python)|
-|[Valid Parentheses]|[Link](https://www.codewars.com/kata/52774a314c2333f0a7000688)|
+|[Valid Parentheses](https://github.com/Deletor/Codewars/blob/main/5kyu/valid_parentheses.md)|[Link](https://www.codewars.com/kata/52774a314c2333f0a7000688)|
 |[Pete, the baker]|[Link]|
 |[Calculating with Functions]|[Link]|
 |[The Hashtag Generator]|[Link]|
@@ -23,7 +23,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[IQ Test](https://github.com/Deletor/Codewars/blob/main/6kyu/iq_test.md)|[Link](https://www.codewars.com/kata/552c028c030765286c00007d/train/python)|
 |[Take a Ten Minute Walk](https://github.com/Deletor/Codewars/blob/main/6kyu/take_a_ten_minute_walk.md)|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python)|
 |[Find the odd int](https://github.com/Deletor/Codewars/blob/main/6kyu/find_the_odd_int.md)|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|
-|[Replace With Alphabet Position]|[Link]|
+|[Replace With Alphabet Position]|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python)|
 |[Dubstep]|[Link]|
 |[Vasya - Clerk]|[Link]|
 |[Sum of Digits / Digital Root]|[Link]|
