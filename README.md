@@ -39,5 +39,5 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 ## 8kyu <br>
 |Name Kata(s) | Link |
 |--|--|
-|[Floating point comparison]|[Link]|
+|[Floating point comparison]|[Link](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8/train/python)|
 |[Multiply]|[Link]|
