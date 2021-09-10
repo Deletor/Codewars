@@ -6,16 +6,27 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 ## 5kyu <br>
 | Name Kata | Link |
 |--|--|
-|[Moving Zeros To The End](https://github.com/Deletor/Codewars/blob/main/5kyu/moving_zeros_to_the_end.md)|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)
+|[Moving Zeros To The End](https://github.com/Deletor/Codewars/blob/main/5kyu/moving_zeros_to_the_end.md)|[Link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)|
+|[Where my anagrams at?]|[Link]|
+|[Valid Parentheses]|[Link]|
+|[Pete, the baker]|[Link]|
+|[Calculating with Functions]|[Link]|
+|[The Hashtag Generator]|[Link]|
+|[Human Readable Time]|[Link]|
 ---
 ## 6kyu <br>
 | Name Kata | Link |
 |--|--|
 |[Array.diff](https://github.com/Deletor/Codewars/blob/main/6kyu/array_diff.md)|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python)|
+[Bouncing Balls]|[Link]|
 |[Multiple of 3 or 5](https://github.com/Deletor/Codewars/blob/main/6kyu/multiples_of_3_or_5.md)|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006/train/python)|
 |[IQ Test](https://github.com/Deletor/Codewars/blob/main/6kyu/iq_test.md)|[Link](https://www.codewars.com/kata/552c028c030765286c00007d/train/python)|
 |[Take a Ten Minute Walk](https://github.com/Deletor/Codewars/blob/main/6kyu/take_a_ten_minute_walk.md)|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python)|
 |[Find the odd int](https://github.com/Deletor/Codewars/blob/main/6kyu/find_the_odd_int.md)|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|
+|[Replace With Alphabet Position]|[Link]|
+|[Dubstep]|[Link]|
+|[Vasya - Clerk]|[Link]|
+|[Sum of Digits / Digital Root]|[Link]|
 
 ---
 ## 7kyu <br>
@@ -28,4 +39,5 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 ## 8kyu <br>
 |Name kata | Link |
 |--|--|
-|aa|aa|
+|[Floating point comparison]|[Link]|
+|[Multiply]|[Link]|
