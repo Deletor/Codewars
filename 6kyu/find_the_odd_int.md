@@ -8,7 +8,7 @@ Given an array of integers, find the one that appears an odd number of times.
 
 There will always be only one integer that appears an odd number of times.
 
-Examples
+**Examples** <br>
 ```[7]``` should return ```7```, because it occurs 1 time (which is odd).<br>
 ```[0]``` should return ```0```, because it occurs 1 time (which is odd).<br>
 ```[1,1,2]``` should return ```2```, because it occurs 1 time (which is odd).<br>
