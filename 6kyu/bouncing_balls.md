@@ -23,9 +23,9 @@ The ball can only be seen if the height of the rebounding ball is strictly great
 
 **Examples:**
 ```
--- h = 3, bounce = 0.66, window = 1.5, result is 3
+h = 3, bounce = 0.66, window = 1.5, result is 3
 
--- h = 3, bounce = 1, window = 1.5, result is -1 
+h = 3, bounce = 1, window = 1.5, result is -1 
 
 (Condition 2) not fulfilled).
 ```
