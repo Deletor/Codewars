@@ -25,8 +25,9 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Find the odd int](https://github.com/Deletor/Codewars/blob/main/6kyu/find_the_odd_int.md)|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|
 |[Replace With Alphabet Position](https://github.com/Deletor/Codewars/blob/main/6kyu/replace_with_alphabet_position.md)|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python)|
 |[Dubstep](https://github.com/Deletor/Codewars/blob/main/6kyu/dubstep.md)|[Link](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/python)|
-|[Vasya - Clerk]|[Link](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)|
+|[Vasya - Clerk](https://github.com/Deletor/Codewars/blob/main/6kyu/vasaya_clerk.md)|[Link](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)|
 |[Sum of Digits / Digital Root]|[Link]|
+|[Your order,please]|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python)|
 
 ---
 ## 7kyu <br>
