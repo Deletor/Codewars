@@ -24,7 +24,7 @@ anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']) => ['carer', '
 anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
 ```
 
-**Note for Go**
+**Note for Go** <br>
 For Go: Empty string slice is expected when there are no anagrams found.
 
 ---
