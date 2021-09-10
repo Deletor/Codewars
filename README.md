@@ -14,6 +14,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Multiple of 3 or 5](https://github.com/Deletor/Codewars/blob/main/6kyu/multiples_of_3_or_5.md)|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006/train/python)|
 |[Array.diff](https://github.com/Deletor/Codewars/blob/main/6kyu/array_diff.md)|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python)|
 |[IQ Test](https://github.com/Deletor/Codewars/blob/main/6kyu/iq_test.md)|[Link](https://www.codewars.com/kata/552c028c030765286c00007d/train/python)|
+|[Take a Ten Minute Walk]|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python)|
 
 ---
 ## 7kyu <br>
