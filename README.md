@@ -42,18 +42,18 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |--|--|
 |[Floating point comparison](https://github.com/Deletor/Codewars/blob/main/8kyu/floating_point_comparison.md)|[Link](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8/train/python)|
 |[Multiply](https://github.com/Deletor/Codewars/blob/main/8kyu/multiply.md)|[Link](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)|
-|[Total amount of points]|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)|
-|[No zeros for heros]|[Link](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/python)|
-|[Dollars and Cents]|[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python)|
-|[Check the exam]|[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/python)|
-|[Find the Difference in Age between Oldest and Youngest Family Members]|[Link](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/python)|
-|[No Loops 2 - You only need one]|[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/solutions/python)|
-|[Grasshopper - Check for factor]|[Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/python)|
-|[Count the Monkeys!]|[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python)|
-|[Regexp Basics - is it a digit?]|[Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032/train/python)|
-|[5 without numbers !!]|[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/train/python)|
-|[Third Angle of a Triangle]()|[Link](https://www.codewars.com/kata/5a023c426975981341000014/train/python)|
-|[Grasshopper - Terminal game combat function]|[Link](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/python)|
-|[Main in the west]|[Link](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b/train/python)|
-|[Calculate Price Excluding VAT]|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/python)|
-|[Is the string uppercase?]|[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/train/python)|
+|[Total amount of points](https://github.com/Deletor/Codewars/blob/main/8kyu/total_amount_of_points.md)|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)|
+|[No zeros for heros](https://github.com/Deletor/Codewars/blob/main/8kyu/no_zeros_no_heros.md)|[Link](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/python)|
+|[Dollars and Cents](https://github.com/Deletor/Codewars/blob/main/8kyu/dollars_and_cents.md)|[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python)|
+|[Check the exam](https://github.com/Deletor/Codewars/blob/main/8kyu/check_the_exam.md)|[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/python)|
+|[Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/Deletor/Codewars/blob/main/8kyu/find_the_difference_in_age_between_oldest_and_youngest_family_members.md)|[Link](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/python)|
+|[No Loops 2 - You only need one](https://github.com/Deletor/Codewars/blob/main/8kyu/no_lops_2.md)|[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/solutions/python)|
+|[Grasshopper - Check for factor](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_check_for_factor.md)|[Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/python)|
+|[Count the Monkeys!](https://github.com/Deletor/Codewars/blob/main/8kyu/count_the_monkeys.md)|[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python)|
+|[Regexp Basics - is it a digit?](https://github.com/Deletor/Codewars/blob/main/8kyu/regexp_basic_is_it_a_digit.md)|[Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032/train/python)|
+|[5 without numbers !!](https://github.com/Deletor/Codewars/blob/main/8kyu/5_without_numbers.md)|[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/train/python)|
+|[Third Angle of a Triangle](https://github.com/Deletor/Codewars/blob/main/8kyu/third_angle_of_a_triangle.md)|[Link](https://www.codewars.com/kata/5a023c426975981341000014/train/python)|
+|[Grasshopper - Terminal game combat function](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_terminal_game_combat_function.md)|[Link](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/python)|
+|[Main in the west](https://github.com/Deletor/Codewars/blob/main/8kyu/main_in_the_west.md)|[Link](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b/train/python)|
+|[Calculate Price Excluding VAT](https://github.com/Deletor/Codewars/blob/main/8kyu/calculate_price_excluding_vat.md)|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/python)|
+|[Is the string uppercase?](https://github.com/Deletor/Codewars/blob/main/8kyu/is_the_string_uppercase.md)|[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/train/python)|
