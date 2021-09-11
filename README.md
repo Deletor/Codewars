@@ -41,4 +41,4 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |Name Kata(s) | Link |
 |--|--|
 |[Floating point comparison](https://github.com/Deletor/Codewars/blob/main/8kyu/floating_point_comparison.md)|[Link](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8/train/python)|
-|[Multiply](https://github.com/Deletor/Codewars/blob/main/7kyu/multiply.md)|[Link](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)|
+|[Multiply](https://github.com/Deletor/Codewars/blob/main/8kyu/multiply.md)|[Link](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)|
