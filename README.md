@@ -23,11 +23,11 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Find the odd int](https://github.com/Deletor/Codewars/blob/main/6kyu/find_the_odd_int.md)|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|
 |[IQ Test](https://github.com/Deletor/Codewars/blob/main/6kyu/iq_test.md)|[Link](https://www.codewars.com/kata/552c028c030765286c00007d/train/python)|
 |[Multiple of 3 or 5](https://github.com/Deletor/Codewars/blob/main/6kyu/multiples_of_3_or_5.md)|[Link](https://www.codewars.com/kata/514b92a657cdc65150000006/train/python)|
-|[Pyramid Array]|[Link](https://www.codewars.com/kata/515f51d438015969f7000013/train/python)|
+|[Pyramid Array](https://github.com/Deletor/Codewars/blob/main/6kyu/pyramid_array.md)|[Link](https://www.codewars.com/kata/515f51d438015969f7000013/train/python)|
 |[Replace With Alphabet Position](https://github.com/Deletor/Codewars/blob/main/6kyu/replace_with_alphabet_position.md)|[Link](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python)|
 |[Sum of Digits / Digital Root](https://github.com/Deletor/Codewars/blob/main/6kyu/sum_of_digits.md)|[Link](https://www.codewars.com/kata/541c8630095125aba6000c00/train/python)|
 |[Take a Ten Minute Walk](https://github.com/Deletor/Codewars/blob/main/6kyu/take_a_ten_minute_walk.md)|[Link](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python)|
-|[Unique In Order]|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)|
+|[Unique In Order](https://github.com/Deletor/Codewars/blob/main/6kyu/unique_in_order.md)|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)|
 |[Vasya - Clerk](https://github.com/Deletor/Codewars/blob/main/6kyu/vasaya_clerk.md)|[Link](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)|
 |[Your order,please](https://github.com/Deletor/Codewars/blob/main/6kyu/your_order_please.md)|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python)|
 
@@ -42,17 +42,17 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |--|--|
 |[Beginner Series #3 Sum of Numbers](https://github.com/Deletor/Codewars/blob/main/7kyu/beginner_series_%233_sum_of_numbers.md)|[Link](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/python)|
 |[Credit Card Mask](https://github.com/Deletor/Codewars/blob/main/7kyu/credit_card_mask.md)|[Link](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/python)|
-|[Even or Odd - Which is Greater?]|[Link](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/train/python)|
-|[Find the calculation type]|[Link](https://www.codewars.com/kata/5aca48db188ab3558e0030fa/train/python)|
-|[Highest and Lowest]|[Link](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)|
-|[Jaden Casing Strings]|[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)|
-|[Multiples]|[Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b/train/python)|
-|[Pandemia]()|[Link](https://www.codewars.com/kata/5e2596a9ad937f002e510435/train/python)|
-|[Remove duplicate words]|[Link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/python)|
-|[Reverse word]|[Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/python)|
-|[Sort Numbers]|[Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/python)|
-|[String ends with?]|[Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)|
-|[V A P O R C O D E]|[Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/train/python)|
+|[Even or Odd - Which is Greater?](https://github.com/Deletor/Codewars/blob/main/7kyu/even_or_odd_witch_is_greater.md)|[Link](https://www.codewars.com/kata/57f7b8271e3d9283300000b4/train/python)|
+|[Find the calculation type](https://github.com/Deletor/Codewars/blob/main/7kyu/find_the_calculation_type.md)|[Link](https://www.codewars.com/kata/5aca48db188ab3558e0030fa/train/python)|
+|[Highest and Lowest](https://github.com/Deletor/Codewars/blob/main/7kyu/higest_and_lowest.md)|[Link](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)|
+|[Jaden Casing Strings](https://github.com/Deletor/Codewars/blob/main/7kyu/jaden_casing_strings.md)|[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)|
+|[Multiples](https://github.com/Deletor/Codewars/blob/main/7kyu/multiples.md)|[Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b/train/python)|
+|[Pandemia](https://github.com/Deletor/Codewars/blob/main/7kyu/pandemia.md)|[Link](https://www.codewars.com/kata/5e2596a9ad937f002e510435/train/python)|
+|[Remove duplicate words](https://github.com/Deletor/Codewars/blob/main/7kyu/remove_duplicate_words.md)|[Link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/python)|
+|[Reverse word](https://github.com/Deletor/Codewars/blob/main/7kyu/reverse_word.md)|[Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/python)|
+|[Sort Numbers](https://github.com/Deletor/Codewars/blob/main/7kyu/sort_numbers.md)|[Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/python)|
+|[String ends with?](https://github.com/Deletor/Codewars/blob/main/7kyu/string_ends_with.md)|[Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)|
+|[V A P O R C O D E](https://github.com/Deletor/Codewars/blob/main/7kyu/vaporcode.md)|[Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/train/python)|
 
 
 ---
@@ -60,35 +60,35 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |Name Kata(s) | Link |
 |--|--|
 |[5 without numbers !!](https://github.com/Deletor/Codewars/blob/main/8kyu/5_without_numbers.md)|[Link](https://www.codewars.com/kata/59441520102eaa25260000bf/train/python)|
-|[Barking mad]|[Link](https://www.codewars.com/kata/54dba07f03e88a4cec000caf/train/python)|
-|[Basic Training: Add item to an Array]|[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001/train/python)|
+|[Barking mad](https://github.com/Deletor/Codewars/blob/main/8kyu/barking_mad.md)|[Link](https://www.codewars.com/kata/54dba07f03e88a4cec000caf/train/python)|
+|[Basic Training: Add item to an Array](https://github.com/Deletor/Codewars/blob/main/8kyu/basic_training_add_item_to_an_array.md)|[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001/train/python)|
 |[Calculate Price Excluding VAT](https://github.com/Deletor/Codewars/blob/main/8kyu/calculate_price_excluding_vat.md)|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/python)|
 |[Check the exam](https://github.com/Deletor/Codewars/blob/main/8kyu/check_the_exam.md)|[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/python)|
 |[Count the Monkeys!](https://github.com/Deletor/Codewars/blob/main/8kyu/count_the_monkeys.md)|[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python)|
 |[Dollars and Cents](https://github.com/Deletor/Codewars/blob/main/8kyu/dollars_and_cents.md)|[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/Deletor/Codewars/blob/main/8kyu/find_the_difference_in_age_between_oldest_and_youngest_family_members.md)|[Link](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/python)|
-|[Fix your code before the garden dies!]|[Link](https://www.codewars.com/kata/57158fb92ad763bb180004e7/train/python)|
+|[Fix your code before the garden dies!](https://github.com/Deletor/Codewars/blob/main/8kyu/fix_your_code_before_the_garden_dies.md)|[Link](https://www.codewars.com/kata/57158fb92ad763bb180004e7/train/python)|
 |[Floating point comparison](https://github.com/Deletor/Codewars/blob/main/8kyu/floating_point_comparison.md)|[Link](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8/train/python)|
-|[Formatting decimal places #0]|[Link](https://www.codewars.com/kata/5641a03210e973055a00000d/train/python)|
+|[Formatting decimal places #0](https://github.com/Deletor/Codewars/blob/main/8kyu/formating_decimal_places.md)|[Link](https://www.codewars.com/kata/5641a03210e973055a00000d/train/python)|
 |[Grasshopper - Check for factor](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_check_for_factor.md)|[Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/python)|
-|[Grasshopper - Combine strings]|[Link](https://www.codewars.com/kata/55f73f66d160f1f1db000059/train/python)|
+|[Grasshopper - Combine strings](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_combine_string.md)|[Link](https://www.codewars.com/kata/55f73f66d160f1f1db000059/train/python)|
 |[Grasshopper - Terminal game combat function](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_terminal_game_combat_function.md)|[Link](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/python)|
 |[Is the string uppercase?](https://github.com/Deletor/Codewars/blob/main/8kyu/is_the_string_uppercase.md)|[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/train/python)|
-|[Leonardo Dicaprio and Oscars]|[Link](https://www.codewars.com/kata/56d49587df52101de70011e4/train/python)|
+|[Leonardo Dicaprio and Oscars](https://github.com/Deletor/Codewars/blob/main/8kyu/leonardo_dicaprio_and_oskars.md)|[Link](https://www.codewars.com/kata/56d49587df52101de70011e4/train/python)|
 |[Main in the west](https://github.com/Deletor/Codewars/blob/main/8kyu/main_in_the_west.md)|[Link](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b/train/python)|
 |[Multiply](https://github.com/Deletor/Codewars/blob/main/8kyu/multiply.md)|[Link](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)|
-|[Name Your Python!]|[Link](https://www.codewars.com/kata/53cf459503f9bbb774000003/train/python)|
+|[Name Your Python!](https://github.com/Deletor/Codewars/blob/main/8kyu/name_your_python.md)|[Link](https://www.codewars.com/kata/53cf459503f9bbb774000003/train/python)|
 |[No Loops 2 - You only need one](https://github.com/Deletor/Codewars/blob/main/8kyu/no_lops_2.md)|[Link](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/solutions/python)|
 |[No zeros for heros](https://github.com/Deletor/Codewars/blob/main/8kyu/no_zeros_no_heros.md)|[Link](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/python)|
-|[Online RPG: player to qualifying stage?]|[Link](https://www.codewars.com/kata/55849d76acd73f6cc4000087/train/python)|
-|[Regex count lowercase letters]|[Link](https://www.codewars.com/kata/56a946cd7bd95ccab2000055/train/python)|
+|[Online RPG: player to qualifying stage?](https://github.com/Deletor/Codewars/blob/main/8kyu/online_rpg_player_to_qualifying_stage.md)|[Link](https://www.codewars.com/kata/55849d76acd73f6cc4000087/train/python)|
+|[Regex count lowercase letters](https://github.com/Deletor/Codewars/blob/main/8kyu/regex_count_lowercase_letters.md)|[Link](https://www.codewars.com/kata/56a946cd7bd95ccab2000055/train/python)|
 |[Regexp Basics - is it a digit?](https://github.com/Deletor/Codewars/blob/main/8kyu/regexp_basic_is_it_a_digit.md)|[Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032/train/python)|
-|[Return to Sanity]|[Link](https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/python)|
-|[String templates bug fixing]|[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/train/python)|
-|[Switch/Case - Bug Fixing #6]|[Link](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)|
+|[Return to Sanity](https://github.com/Deletor/Codewars/blob/main/8kyu/return_to_sanity.md)|[Link](https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/python)|
+|[String templates bug fixing](https://github.com/Deletor/Codewars/blob/main/8kyu/string_templates_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/train/python)|
+|[Switch/Case - Bug Fixing #6](https://github.com/Deletor/Codewars/blob/main/8kyu/switch_case_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)|
 |[Third Angle of a Triangle](https://github.com/Deletor/Codewars/blob/main/8kyu/third_angle_of_a_triangle.md)|[Link](https://www.codewars.com/kata/5a023c426975981341000014/train/python)|
 |[Total amount of points](https://github.com/Deletor/Codewars/blob/main/8kyu/total_amount_of_points.md)|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)|
-|[Unexpected parsing]|[Link](https://www.codewars.com/kata/54fdaa4a50f167b5c000005f/train/python)|
+|[Unexpected parsing](https://github.com/Deletor/Codewars/blob/main/8kyu/unexpected_parsing.md)|[Link](https://www.codewars.com/kata/54fdaa4a50f167b5c000005f/train/python)|
 |[USD => CNY]()|[Link](https://www.codewars.com/kata/5977618080ef220766000022/train/python)|
 
 
