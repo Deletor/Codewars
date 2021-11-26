@@ -70,14 +70,21 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Check the exam](https://github.com/Deletor/Codewars/blob/main/8kyu/check_the_exam.md)|[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/python)|
 |[Count the Monkeys!](https://github.com/Deletor/Codewars/blob/main/8kyu/count_the_monkeys.md)|[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python)|
 |[Dollars and Cents](https://github.com/Deletor/Codewars/blob/main/8kyu/dollars_and_cents.md)|[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python)|
+|[Ensure question](https://github.com/Deletor/Codewars/blob/main/8kyu/ensure_question.md)|[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006)|
+|[Filtering even numbers (Bug Fixes)](https://github.com/Deletor/Codewars/blob/main/8kyu/filtering_even_numbers.md)|[Link](https://www.codewars.com/kata/566dc566f6ea9a14b500007b)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/Deletor/Codewars/blob/main/8kyu/find_the_difference_in_age_between_oldest_and_youngest_family_members.md)|[Link](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/python)|
+|[Find the smallest integer in the array](https://github.com/Deletor/Codewars/blob/main/8kyu/find_the_smallest_integer_in_the_array.md)|[Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)|
 |[Fix your code before the garden dies!](https://github.com/Deletor/Codewars/blob/main/8kyu/fix_your_code_before_the_garden_dies.md)|[Link](https://www.codewars.com/kata/57158fb92ad763bb180004e7/train/python)|
 |[Floating point comparison](https://github.com/Deletor/Codewars/blob/main/8kyu/floating_point_comparison.md)|[Link](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8/train/python)|
 |[Formatting decimal places #0](https://github.com/Deletor/Codewars/blob/main/8kyu/formating_decimal_places.md)|[Link](https://www.codewars.com/kata/5641a03210e973055a00000d/train/python)|
+|[Fundamentals: Return](https://github.com/Deletor/Codewars/blob/main/8kyu/Fundamentals_return.md)|[Link](https://www.codewars.com/kata/55a5befdf16499bffb00007b)|
 |[Grasshopper - Check for factor](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_check_for_factor.md)|[Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/python)|
 |[Grasshopper - Combine strings](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_combine_string.md)|[Link](https://www.codewars.com/kata/55f73f66d160f1f1db000059/train/python)|
+|[Grasshopper - Function syntax debugging](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_function_syntax_debugging.md)|[Link](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a)|
+|[Grasshopper - Messi Goals](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_messi_goals.md)|[Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)|
 |[Grasshopper - Terminal game combat function](https://github.com/Deletor/Codewars/blob/main/8kyu/grasshopper_terminal_game_combat_function.md)|[Link](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/python)|
 |[Is the string uppercase?](https://github.com/Deletor/Codewars/blob/main/8kyu/is_the_string_uppercase.md)|[Link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/train/python)|
+|[Jenny's secret message](https://github.com/Deletor/Codewars/blob/main/8kyu/jennys_secret_message.md)|[Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390)|
 |[Leonardo Dicaprio and Oscars](https://github.com/Deletor/Codewars/blob/main/8kyu/leonardo_dicaprio_and_oskars.md)|[Link](https://www.codewars.com/kata/56d49587df52101de70011e4/train/python)|
 |[Main in the west](https://github.com/Deletor/Codewars/blob/main/8kyu/main_in_the_west.md)|[Link](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b/train/python)|
 |[Multiply](https://github.com/Deletor/Codewars/blob/main/8kyu/multiply.md)|[Link](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)|
@@ -88,22 +95,16 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Regex count lowercase letters](https://github.com/Deletor/Codewars/blob/main/8kyu/regex_count_lowercase_letters.md)|[Link](https://www.codewars.com/kata/56a946cd7bd95ccab2000055/train/python)|
 |[Regexp Basics - is it a digit?](https://github.com/Deletor/Codewars/blob/main/8kyu/regexp_basic_is_it_a_digit.md)|[Link](https://www.codewars.com/kata/567bf4f7ee34510f69000032/train/python)|
 |[Return to Sanity](https://github.com/Deletor/Codewars/blob/main/8kyu/return_to_sanity.md)|[Link](https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/python)|
+|[Reversed Words](https://github.com/Deletor/Codewars/blob/main/8kyu/reversed_words.md)|[Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)|
+|[Sort and Star](https://github.com/Deletor/Codewars/blob/main/8kyu/sort_and_star.md)|[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)|
 |[String templates bug fixing](https://github.com/Deletor/Codewars/blob/main/8kyu/string_templates_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/train/python)|
 |[Switch/Case - Bug Fixing #6](https://github.com/Deletor/Codewars/blob/main/8kyu/switch_case_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)|
+|[The Feast of Many Beasts](https://github.com/Deletor/Codewars/blob/main/8kyu/the_feast_of_many_beasts.md)|[Link](https://www.codewars.com/kata/5aa736a455f906981800360d)|
 |[Third Angle of a Triangle](https://github.com/Deletor/Codewars/blob/main/8kyu/third_angle_of_a_triangle.md)|[Link](https://www.codewars.com/kata/5a023c426975981341000014/train/python)|
 |[Total amount of points](https://github.com/Deletor/Codewars/blob/main/8kyu/total_amount_of_points.md)|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)|
 |[Unexpected parsing](https://github.com/Deletor/Codewars/blob/main/8kyu/unexpected_parsing.md)|[Link](https://www.codewars.com/kata/54fdaa4a50f167b5c000005f/train/python)|
 |[USD => CNY](https://github.com/Deletor/Codewars/blob/main/8kyu/usd_cny.md)|[Link](https://www.codewars.com/kata/5977618080ef220766000022/train/python)|
-|[Jenny's secret message]|[Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390)|
-|[Grasshopper - Function syntax debugging]|[Link](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a)|
-|[Sort and Star]|[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)|
-|[Ensure question]|[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006)|
-|[Grasshopper - Messi Goals]|[Link](https://www.codewars.com/kata/55ca77fa094a2af31f00002a)|
-|[The Feast of Many Beasts]|[Link](https://www.codewars.com/kata/5aa736a455f906981800360d)|
-|[Reversed Words]|[Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)|
-|[Find the smallest integer in the array]|[Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)|
-|[Fundamentals: Return]|[Link](https://www.codewars.com/kata/55a5befdf16499bffb00007b)|
-|[Filtering even numbers (Bug Fixes)]|[Link](https://www.codewars.com/kata/566dc566f6ea9a14b500007b)|
+
 
 ---
 ## upcomming
