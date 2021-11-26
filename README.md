@@ -107,7 +107,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 
 
 ---
-## Upcomming
+## Upcomming...
 ---
 |Name|Link|
 |--|--|
