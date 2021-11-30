@@ -104,14 +104,6 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Total amount of points](https://github.com/Deletor/Codewars/blob/main/8kyu/total_amount_of_points.md)|[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)|
 |[Unexpected parsing](https://github.com/Deletor/Codewars/blob/main/8kyu/unexpected_parsing.md)|[Link](https://www.codewars.com/kata/54fdaa4a50f167b5c000005f/train/python)|
 |[USD => CNY](https://github.com/Deletor/Codewars/blob/main/8kyu/usd_cny.md)|[Link](https://www.codewars.com/kata/5977618080ef220766000022/train/python)|
-
-
----
-## Upcomming...
----
-|Name|Link|
-|--|--|
-|[Filtering even numbers (Bug Fixes)]|[Link](https://www.codewars.com/kata/566dc566f6ea9a14b500007b)|
 |[Is it a number?]|[Link](https://www.codewars.com/kata/57126304cdbf63c6770012bd)|
 |[Convert a Boolean to a String]|[Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd)|
 |[Even or Odd]|[Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)|
@@ -127,6 +119,11 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Thinkful - Logic Drills: Traffic light]|[Link](https://www.codewars.com/kata/58649884a1659ed6cb000072)|
 |[What's the real floor?]|[Link](https://www.codewars.com/kata/574b3b1599d8f897470018f6)|
 |[Convert number to reversed array of digits]|[Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)|
+---
+## Upcomming...
+---
+|Name|Link|
+|--|--|
 |[Square(n) Sum]|[Link](https://www.codewars.com/kata/515e271a311df0350d00000f)|
 |[Hex to Decimal]|[Link](https://www.codewars.com/kata/57a4d500e298a7952100035d)|
 |[Is it a palindrome?]|[Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)|
@@ -279,6 +276,3 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Volume of a Cuboid]|[Link](https://www.codewars.com/kata/58261acb22be6e2ed800003a)|
 |[A Needle in the Haystack]|[Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)|
 |[Tip Calculator]|[Link](https://www.codewars.com/kata/56598d8076ee7a0759000087)|
-
-
-
