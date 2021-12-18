@@ -67,6 +67,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Barking mad](https://github.com/Deletor/Codewars/blob/main/8kyu/barking_mad.md)|[Link](https://www.codewars.com/kata/54dba07f03e88a4cec000caf/train/python)|
 |[Basic Training: Add item to an Array](https://github.com/Deletor/Codewars/blob/main/8kyu/basic_training_add_item_to_an_array.md)|[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001/train/python)|
 |[Calculate Price Excluding VAT](https://github.com/Deletor/Codewars/blob/main/8kyu/calculate_price_excluding_vat.md)|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/python)|
+|[Century From Year]|[Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)|
 |[Check the exam](https://github.com/Deletor/Codewars/blob/main/8kyu/check_the_exam.md)|[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/python)|
 |[Convert a Boolean to a String](https://github.com/Deletor/Codewars/blob/main/8kyu/convert_a_boolean_to_a_string.md)|[Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd)|
 |[Convert number to reversed array of digits](https://github.com/Deletor/Codewars/blob/main/8kyu/convert_number_to_reversed_array_of_digits.md)|[Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)|
@@ -75,6 +76,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Dollars and Cents](https://github.com/Deletor/Codewars/blob/main/8kyu/dollars_and_cents.md)|[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python)|
 |[Ensure question](https://github.com/Deletor/Codewars/blob/main/8kyu/ensure_question.md)|[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006)|
 |[Even or Odd](https://github.com/Deletor/Codewars/blob/main/8kyu/even_or_odd.md)|[Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)|
+|[Expressions Matter]|[Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)|
 |[Fake Binary](https://github.com/Deletor/Codewars/blob/main/8kyu/fake_binary.md)|[Link](https://www.codewars.com/kata/57eae65a4321032ce000002d)|
 |[Filtering even numbers (Bug Fixes)](https://github.com/Deletor/Codewars/blob/main/8kyu/filtering_even_numbers.md)|[Link](https://www.codewars.com/kata/566dc566f6ea9a14b500007b)|
 |[Find the Difference in Age between Oldest and Youngest Family Members](https://github.com/Deletor/Codewars/blob/main/8kyu/find_the_difference_in_age_between_oldest_and_youngest_family_members.md)|[Link](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/python)|
@@ -107,9 +109,11 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Return Negative](https://github.com/Deletor/Codewars/blob/main/8kyu/return_negative.md)|[Link](https://www.codewars.com/kata/55685cd7ad70877c23000102)|
 |[Return to Sanity](https://github.com/Deletor/Codewars/blob/main/8kyu/return_to_sanity.md)|[Link](https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/python)|
 |[Reversed Words](https://github.com/Deletor/Codewars/blob/main/8kyu/reversed_words.md)|[Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)|
+|[Simple multiplication]|[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)|
 |[Sort and Star](https://github.com/Deletor/Codewars/blob/main/8kyu/sort_and_star.md)|[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)|
 |[Square(n) Sum](https://github.com/Deletor/Codewars/blob/main/8kyu/square_n_sum.md)|[Link](https://www.codewars.com/kata/515e271a311df0350d00000f)|
 |[String templates bug fixing](https://github.com/Deletor/Codewars/blob/main/8kyu/string_templates_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/train/python)|
+|[Student's Final Grade]|[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)|
 |[Sum Mixed Array](https://github.com/Deletor/Codewars/blob/main/8kyu/sum_mixed_array.md)|[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009)|
 |[Switch/Case - Bug Fixing #6](https://github.com/Deletor/Codewars/blob/main/8kyu/switch_case_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)|
 |[The Feast of Many Beasts](https://github.com/Deletor/Codewars/blob/main/8kyu/the_feast_of_many_beasts.md)|[Link](https://www.codewars.com/kata/5aa736a455f906981800360d)|
@@ -120,8 +124,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[USD => CNY](https://github.com/Deletor/Codewars/blob/main/8kyu/usd_cny.md)|[Link](https://www.codewars.com/kata/5977618080ef220766000022/train/python)|
 |[Well of Ideas - Easy Version](https://github.com/Deletor/Codewars/blob/main/8kyu/well_of_ideas.md)|[Link](https://www.codewars.com/kata/57f222ce69e09c3630000212)|
 |[What's the real floor?](https://github.com/Deletor/Codewars/blob/main/8kyu/whats_the_real_floor.md)|[Link](https://www.codewars.com/kata/574b3b1599d8f897470018f6)|
-
-
+|[Double Char]|[Link](https://www.codewars.com/kata/56b1f01c247c01db92000076)|
 ---
 ## Upcomming...
 ---
