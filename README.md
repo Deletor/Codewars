@@ -48,7 +48,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Jaden Casing Strings](https://github.com/Deletor/Codewars/blob/main/7kyu/jaden_casing_strings.md)|[Link](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)|
 |[Multiples](https://github.com/Deletor/Codewars/blob/main/7kyu/multiples.md)|[Link](https://www.codewars.com/kata/55a8a36703fe4c45ed00005b/train/python)|
 |[Pandemia](https://github.com/Deletor/Codewars/blob/main/7kyu/pandemia.md)|[Link](https://www.codewars.com/kata/5e2596a9ad937f002e510435/train/python)|
-|[Point in a unit circle]|[Link](https://www.codewars.com/kata/58da7ae9b340a2440500009c/train/python)|
+|[Point in a unit circle](https://github.com/Deletor/Codewars/blob/main/7kyu/point_in_a_unit_circle.md)|[Link](https://www.codewars.com/kata/58da7ae9b340a2440500009c/train/python)|
 |[Remove duplicate words](https://github.com/Deletor/Codewars/blob/main/7kyu/remove_duplicate_words.md)|[Link](https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/python)|
 |[Reverse word](https://github.com/Deletor/Codewars/blob/main/7kyu/reverse_word.md)|[Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/python)|
 |[Sort Numbers](https://github.com/Deletor/Codewars/blob/main/7kyu/sort_numbers.md)|[Link](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/python)|
