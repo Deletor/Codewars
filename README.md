@@ -55,7 +55,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[String ends with?](https://github.com/Deletor/Codewars/blob/main/7kyu/string_ends_with.md)|[Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)|
 |[Thinkful - String Drills: Quotable]|[Link](https://www.codewars.com/kata/5859c82bd41fc6207900007a/train/python)|
 |[V A P O R C O D E](https://github.com/Deletor/Codewars/blob/main/7kyu/vaporcode.md)|[Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a/train/python)|
-|[Words to sentence]|[Link](https://www.codewars.com/kata/57a06005cf1fa5fbd5000216/train/python)|
+|[Words to sentence](https://github.com/Deletor/Codewars/blob/main/7kyu/words_to_sentence.md)|[Link](https://www.codewars.com/kata/57a06005cf1fa5fbd5000216/train/python)|
 
 
 
