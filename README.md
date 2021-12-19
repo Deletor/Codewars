@@ -109,7 +109,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Return Negative](https://github.com/Deletor/Codewars/blob/main/8kyu/return_negative.md)|[Link](https://www.codewars.com/kata/55685cd7ad70877c23000102)|
 |[Return to Sanity](https://github.com/Deletor/Codewars/blob/main/8kyu/return_to_sanity.md)|[Link](https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/python)|
 |[Reversed Words](https://github.com/Deletor/Codewars/blob/main/8kyu/reversed_words.md)|[Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)|
-|[Simple multiplication]|[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)|
+|[Simple multiplication](https://github.com/Deletor/Codewars/blob/main/8kyu/simple_multiplication.md)|[Link](https://www.codewars.com/kata/583710ccaa6717322c000105)|
 |[Sort and Star](https://github.com/Deletor/Codewars/blob/main/8kyu/sort_and_star.md)|[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)|
 |[Square(n) Sum](https://github.com/Deletor/Codewars/blob/main/8kyu/square_n_sum.md)|[Link](https://www.codewars.com/kata/515e271a311df0350d00000f)|
 |[String templates bug fixing](https://github.com/Deletor/Codewars/blob/main/8kyu/string_templates_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/train/python)|
