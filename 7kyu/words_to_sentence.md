@@ -1,11 +1,11 @@
 
 Codewars Python Solutions
 ---
-## Multiples of 3 or 5 <br>
+## Words to sentence <br>
 ---
 Write function which will create a string from a list of strings, separated by space.
 
-## xample:
+## Example:
 ```
 ["hello", "world"] -> "hello world"
 ```
