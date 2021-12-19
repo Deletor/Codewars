@@ -74,6 +74,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Count the Monkeys!](https://github.com/Deletor/Codewars/blob/main/8kyu/count_the_monkeys.md)|[Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python)|
 |[Counting sheep...](https://github.com/Deletor/Codewars/blob/main/8kyu/counting_sheep.md)|[Link](https://www.codewars.com/kata/54edbc7200b811e956000556)|
 |[Dollars and Cents](https://github.com/Deletor/Codewars/blob/main/8kyu/dollars_and_cents.md)|[Link](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python)|
+|[Double Char](https://github.com/Deletor/Codewars/blob/main/8kyu/double_char.md)|[Link](https://www.codewars.com/kata/56b1f01c247c01db92000076)|
 |[Ensure question](https://github.com/Deletor/Codewars/blob/main/8kyu/ensure_question.md)|[Link](https://www.codewars.com/kata/5866fc43395d9138a7000006)|
 |[Even or Odd](https://github.com/Deletor/Codewars/blob/main/8kyu/even_or_odd.md)|[Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)|
 |[Expressions Matter](https://github.com/Deletor/Codewars/blob/main/8kyu/expression_matter.md)|[Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e)|
@@ -124,7 +125,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[USD => CNY](https://github.com/Deletor/Codewars/blob/main/8kyu/usd_cny.md)|[Link](https://www.codewars.com/kata/5977618080ef220766000022/train/python)|
 |[Well of Ideas - Easy Version](https://github.com/Deletor/Codewars/blob/main/8kyu/well_of_ideas.md)|[Link](https://www.codewars.com/kata/57f222ce69e09c3630000212)|
 |[What's the real floor?](https://github.com/Deletor/Codewars/blob/main/8kyu/whats_the_real_floor.md)|[Link](https://www.codewars.com/kata/574b3b1599d8f897470018f6)|
-|[Double Char]|[Link](https://www.codewars.com/kata/56b1f01c247c01db92000076)|
+
 ---
 ## Upcomming...
 ---
