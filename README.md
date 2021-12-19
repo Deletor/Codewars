@@ -113,7 +113,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Sort and Star](https://github.com/Deletor/Codewars/blob/main/8kyu/sort_and_star.md)|[Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)|
 |[Square(n) Sum](https://github.com/Deletor/Codewars/blob/main/8kyu/square_n_sum.md)|[Link](https://www.codewars.com/kata/515e271a311df0350d00000f)|
 |[String templates bug fixing](https://github.com/Deletor/Codewars/blob/main/8kyu/string_templates_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c90cad4b0fe31a7200001f/train/python)|
-|[Student's Final Grade]|[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)|
+|[Student's Final Grade](https://github.com/Deletor/Codewars/blob/main/8kyu/students_final_grande.md)|[Link](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)|
 |[Sum Mixed Array](https://github.com/Deletor/Codewars/blob/main/8kyu/sum_mixed_array.md)|[Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009)|
 |[Switch/Case - Bug Fixing #6](https://github.com/Deletor/Codewars/blob/main/8kyu/switch_case_bug_fixing.md)|[Link](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)|
 |[The Feast of Many Beasts](https://github.com/Deletor/Codewars/blob/main/8kyu/the_feast_of_many_beasts.md)|[Link](https://www.codewars.com/kata/5aa736a455f906981800360d)|
