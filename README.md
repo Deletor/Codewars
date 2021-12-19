@@ -67,7 +67,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Barking mad](https://github.com/Deletor/Codewars/blob/main/8kyu/barking_mad.md)|[Link](https://www.codewars.com/kata/54dba07f03e88a4cec000caf/train/python)|
 |[Basic Training: Add item to an Array](https://github.com/Deletor/Codewars/blob/main/8kyu/basic_training_add_item_to_an_array.md)|[Link](https://www.codewars.com/kata/511f0fe64ae8683297000001/train/python)|
 |[Calculate Price Excluding VAT](https://github.com/Deletor/Codewars/blob/main/8kyu/calculate_price_excluding_vat.md)|[Link](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/python)|
-|[Century From Year]|[Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)|
+|[Century From Year](https://github.com/Deletor/Codewars/blob/main/8kyu/century_from_year.md)|[Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097)|
 |[Check the exam](https://github.com/Deletor/Codewars/blob/main/8kyu/check_the_exam.md)|[Link](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/python)|
 |[Convert a Boolean to a String](https://github.com/Deletor/Codewars/blob/main/8kyu/convert_a_boolean_to_a_string.md)|[Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd)|
 |[Convert number to reversed array of digits](https://github.com/Deletor/Codewars/blob/main/8kyu/convert_number_to_reversed_array_of_digits.md)|[Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)|
