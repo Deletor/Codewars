@@ -30,6 +30,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Unique In Order](https://github.com/Deletor/Codewars/blob/main/6kyu/unique_in_order.md)|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)|
 |[Vasya - Clerk](https://github.com/Deletor/Codewars/blob/main/6kyu/vasaya_clerk.md)|[Link](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)|
 |[Your order,please](https://github.com/Deletor/Codewars/blob/main/6kyu/your_order_please.md)|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python)|
+|[Banker's Plan]()|[Link](https://www.codewars.com/kata/56445c4755d0e45b8c00010a/)|
 
 
 
