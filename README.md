@@ -18,6 +18,7 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 | Name Kata(s) | Link |
 |--|--|
 |[Array.diff](https://github.com/Deletor/Codewars/blob/main/6kyu/array_diff.md)|[Link](https://www.codewars.com/kata/523f5d21c841566fde000009/train/python)|
+|[Banker's Plan](https://github.com/Deletor/Codewars/blob/main/6kyu/bankers_plan.md)|[Link](https://www.codewars.com/kata/56445c4755d0e45b8c00010a/)|
 |[Bouncing Balls](https://github.com/Deletor/Codewars/blob/main/6kyu/bouncing_balls.md)|[Link](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python)|
 |[Dubstep](https://github.com/Deletor/Codewars/blob/main/6kyu/dubstep.md)|[Link](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/python)|
 |[Find the odd int](https://github.com/Deletor/Codewars/blob/main/6kyu/find_the_odd_int.md)|[Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)|
@@ -30,7 +31,6 @@ Join [Codewars](www.codewars.com/r/VVLPRA) and
 |[Unique In Order](https://github.com/Deletor/Codewars/blob/main/6kyu/unique_in_order.md)|[Link](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)|
 |[Vasya - Clerk](https://github.com/Deletor/Codewars/blob/main/6kyu/vasaya_clerk.md)|[Link](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/python)|
 |[Your order,please](https://github.com/Deletor/Codewars/blob/main/6kyu/your_order_please.md)|[Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python)|
-|[Banker's Plan]()|[Link](https://www.codewars.com/kata/56445c4755d0e45b8c00010a/)|
 
 
 
